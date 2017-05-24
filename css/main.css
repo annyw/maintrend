@@ -1,0 +1,24 @@
+nav .landing {
+  height: 100vh;
+}
+nav .menu {
+  padding: 30px;
+}
+nav .icon-bar {
+  height: 1px;
+  width: 25px;
+  border-radius: 4px;
+  background-color: #000000;
+  margin-bottom: 6px;
+}
+nav .navbar-brand {
+  height: auto;
+  padding: 20px;
+}
+@media screen {
+  .exh-banner {
+    height: 480px;
+    width: 100%;
+    background: no-repeat center;
+  }
+}
